@@ -1,0 +1,16 @@
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\bin\Debug\Priceofmangoes.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\bin\Debug\Priceofmangoes.pdb
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\bin\Debug\Priceofmangoes.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\obj\x86\Debug\Priceofmangoes.Resources.resources
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\obj\x86\Debug\Priceofmangoes.vbproj.GenerateResource.Cache
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\obj\x86\Debug\Priceofmangoes.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\obj\x86\Debug\Priceofmangoes.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\Priceofmangoes\obj\x86\Debug\Priceofmangoes.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\obj\x86\Debug\Priceofmangoes.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\obj\x86\Debug\Priceofmangoes.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\obj\x86\Debug\Priceofmangoes.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\bin\Debug\Priceofmangoes.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\bin\Debug\Priceofmangoes.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\bin\Debug\Priceofmangoes.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\obj\x86\Debug\Priceofmangoes.Resources.resources
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Priceofmangoes\Priceofmangoes\obj\x86\Debug\Priceofmangoes.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.pdb
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\obj\x86\Debug\HIGHEST_NUMBER.Resources.resources
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.vbproj.GenerateResource.Cache
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\bin\Debug\HIGHEST NUMBER.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\obj\x86\Debug\HIGHEST_NUMBER.Resources.resources
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\HIGHEST NUMBER\HIGHEST NUMBER\obj\x86\Debug\HIGHEST NUMBER.vbproj.GenerateResource.Cache

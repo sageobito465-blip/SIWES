@@ -1,0 +1,16 @@
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.Resources.resources
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.vbproj.GenerateResource.Cache
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\bin\Debug\Sumof2Numbers.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\bin\Debug\Sumof2Numbers.pdb
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\bin\Debug\Sumof2Numbers.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\bin\Debug\Sumof2Numbers.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\bin\Debug\Sumof2Numbers.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\bin\Debug\Sumof2Numbers.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.Resources.resources
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\Sumof2Numbers\Sumof2Numbers\obj\x86\Debug\Sumof2Numbers.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\bin\Debug\productof2NUm.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\bin\Debug\productof2NUm.pdb
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\bin\Debug\productof2NUm.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\obj\x86\Debug\productof2NUm.Resources.resources
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\obj\x86\Debug\productof2NUm.vbproj.GenerateResource.Cache
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\obj\x86\Debug\productof2NUm.exe
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\obj\x86\Debug\productof2NUm.xml
+C:\Users\OBITO\AppData\Local\Temporary Projects\productof2NUm\obj\x86\Debug\productof2NUm.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\obj\x86\Debug\productof2NUm.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\obj\x86\Debug\productof2NUm.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\obj\x86\Debug\productof2NUm.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\bin\Debug\productof2NUm.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\bin\Debug\productof2NUm.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\bin\Debug\productof2NUm.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\obj\x86\Debug\productof2NUm.Resources.resources
+C:\Users\OBITO\Documents\Visual Studio 2010\Projects\productof2NUm\productof2NUm\obj\x86\Debug\productof2NUm.vbproj.GenerateResource.Cache
