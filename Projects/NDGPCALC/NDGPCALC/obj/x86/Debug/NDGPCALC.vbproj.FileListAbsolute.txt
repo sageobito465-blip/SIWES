@@ -1,0 +1,8 @@
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\bin\Debug\NDGPCALC.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\bin\Debug\NDGPCALC.pdb
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\bin\Debug\NDGPCALC.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\obj\x86\Debug\NDGPCALC.Resources.resources
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\obj\x86\Debug\NDGPCALC.vbproj.GenerateResource.Cache
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\obj\x86\Debug\NDGPCALC.exe
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\obj\x86\Debug\NDGPCALC.xml
+C:\Users\OBITO\Documents\Visual Studio 2010\VB.NET\NDGPCALC\NDGPCALC\obj\x86\Debug\NDGPCALC.pdb
